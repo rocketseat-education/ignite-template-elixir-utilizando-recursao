@@ -1,4 +1,4 @@
-defmodule ListLenghtTest do
+defmodule ListLengthTest do
   use ExUnit.Case
 
   describe "call/1" do
