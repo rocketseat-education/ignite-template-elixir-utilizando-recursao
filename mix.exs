@@ -1,9 +1,9 @@
-defmodule ListLenght.MixProject do
+defmodule ListLength.MixProject do
   use Mix.Project
 
   def project do
     [
-      app: :list_lenght,
+      app: :list_length,
       version: "0.1.0",
       elixir: "~> 1.11",
       start_permanent: Mix.env() == :prod,
